@@ -1,1 +1,3 @@
-# jogo-da-cobrinha
+# Snake Game
+
+Jogo utilizando Javascript
